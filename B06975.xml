@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The false test set in a true light.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1710</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06975</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[52]</idno>
+            <idno type="EEBO-CITATION">99893423</idno>
+            <idno type="PROQUEST">ocm99893423</idno>
+            <idno type="VID">182442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182442)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[54])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The false test set in a true light.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonah Bowyer, at the Rose in Ludgate Street.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1710.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Consists of extracts from the Journals of the House of Commons, and the London-Gazette, 1702, in refutation of two "scandalous and villainous papers".</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  House of Commons --  Early works to 1800.</term>
+               <term>English newspapers --  18th century --  Early works to 1800.</term>
+               <term>Newspapers --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:182442:1" rendition="simple:additions"/>
+            <head>The Falſe TEST Set in a TRUE LIGHT.</head>
+            <head type="sub">
+               <hi>Being a full Confutation of Two Scandalous and Villainous Pa<g ref="char:EOLhyphen"/>pers, [One entituled,</hi> A TEST offer'd to the Conſidera<g ref="char:EOLhyphen"/>tion of the Electors of <hi>Great-Britain; the Other entituled,</hi> A LIST of the Honourable Houſe of Commons that voted for and againſt the Clauſe of the <hi>Hanover</hi> Succeſ<g ref="char:EOLhyphen"/>ſion in the Year 1702.] <hi>by</hi> Extracts <hi>made from the</hi> Journals <hi>of the Honourable</hi> Houſe of Commons, (<hi>atteſted by</hi> Paul Jodrell, <hi>Eſq</hi>) <hi>and from the</hi> London-Gazette <hi>of</hi> Thurſday, March 18. 1702.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE falſe and ſcandalous Papers above-mention'd, having, with great Induſtry and Malice been ſpread throughout this Kingdom, in order to aſperſe the Characters of the ſeveral Honourable and Worthy Gentlemen therein repreſented as Enemies to the Illuſtrious Houſe of <hi>Hanover,</hi> and to hinder their being elected Members of the enſuing Parliament: Therefore, for the right Information of the Electors, for vin<g ref="char:EOLhyphen"/>dicating the Reputation of the Candidates, and for giving a full, authentick, and ſatisfactory Anſwer to the ſaid Falſe, Scandalous and Seditious Pamphlets, Theſe Abſtracts from the <hi>Gazette's</hi> are made publick.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="extract">
+                        <head>
+                           <hi>Extract from the</hi> Gazette <hi>of</hi> Saturday, Sept. 30. 1710.</head>
+                        <p>WHereas Two printed Papers, one entituled, <hi>A Teſt offer'd to the Conſideration of the Electors of</hi> Great Britain; and the other entituled, <hi>A Liſt of the Honourable Houſe of Commons that voted for and againſt the Clauſe for the</hi> Hanover <hi>Succeſſion, in the Year</hi> 1702. are lately diſpers'd Abroad; wherein are mention'd Amendments made by the Lords to the Bill entituled, <hi>An Act for enlarging the Time for taking the Oath of Abjuration, and alſo for recapacitating and indemnifying ſuch Perſons as have not taken the ſame by the Time ap<g ref="char:EOLhyphen"/>pointed:</hi> And that the Houſe of Commons, the 13th of <hi>February,</hi> 1702, took thoſe Amendments into Conſideration.</p>
+                        <p>
+                           <hi>(Price One Penny.)</hi>
+                        </p>
+                        <pb n="2" facs="tcp:182442:2"/>
+                        <p> And whereas, after ſetting forth, <hi>verbatim,</hi> the Clauſe following, <hi>viz.</hi>
+                        </p>
+                        <p>
+                           <q>And for the further Security of Her Majeſty's Perſon, and the Succeſſion of the Crown in the Proteſtant Line, and for extinguiſhing the Hopes of the Pretended Prince of <hi>Wales,</hi> and all other Pretenders, and their open and ſe<g ref="char:EOLhyphen"/>cret Abettors; Be it further Enacted by the Authority aforeſaid, That if any Perſon or Perſons, at any time after the firſt day of <hi>March,</hi> 1702. ſhall endeavour to deprive or hinder any Perſon, who ſhall be the next in Succeſſion <gap reason="illegible: blotted" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap> the Crown for the time being, according to the Limitations in an Act en<g ref="char:EOLhyphen"/>titul'd, <hi>An Act declaring the Rights and Liberties of the Subject, and ſettling the Suc<g ref="char:EOLhyphen"/>ceſſion of the Crown,</hi> And according to the other Act, entitul'd, <hi>An Act for the further Limitation of the Crown, and better ſecuring the Rights and Liberties of the Subject,</hi> from ſucceeding after the Deceaſe of Her Majeſty (whom God long preſerve) to the Imperial Crown of this Realm, and the Dominions and Territories thereunto belon<gap reason="illegible: missing" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ng, according to the Limitations in the be<g ref="char:EOLhyphen"/>foremention'd Acts; that is to ſay, ſuch Iſſue of Her Majeſty's Body, as ſhall from time to time be next in Succeſſion to the Crown, if it ſhall pleaſe God Almighty to bleſs Her Majeſty with Iſſue; and during the time Her Majeſty ſhall have no Iſſue, the Princeſs <hi>Sophia,</hi> Electreſs and Ducheſs Dowager of <hi>Ha<g ref="char:EOLhyphen"/>nover;</hi> and after the Deceaſe of the ſaid Princeſs <hi>Sophia,</hi> the next in Succeſſion to the Crown for the time being, according to the Limitations of the ſaid Acts; and the ſame maliciouſly, adviſedly and directly ſhall attempt, by any Overt Act or Deed: Every ſuch Offence ſhall be adjudged High-Treaſon, and the Of<g ref="char:EOLhyphen"/>fender or Offenders therein their Abettors, Procurers and Comforters, know<g ref="char:EOLhyphen"/>ing the ſaid Offence to be done, being thereof convicted or attainted, accord<g ref="char:EOLhyphen"/>ing to the Laws and Statutes of this Realm, ſhall be deemed and adjudged Traytors, and ſhall ſuffer Pains of Death, and all Loſſes and Forfeitures, as in Caſes of High-Treaſon.</q>
+                        </p>
+                        <p>And alſo, after ſetting forth the Subſtance of other Clauſes, (other of the ſaid Amendments) it is ſaid in the ſaid Printed Papers thus; <hi>After Debate, the Queſtion being put for agreeing with the Lords in theſe Amendments, the Houſe divided.</hi>
+                        </p>
+                        <p>And at the end of the ſaid Printed Papers it is ſaid: <hi>To this happy Majority, tho' but of one Vote, we owe ſo excellent a Law, ſo great a Strengthening to the Prote<g ref="char:EOLhyphen"/>ſtant Succeſſion in the Illuſtrious Houſe of</hi> Hanover, <hi>upon the ſupporting of which our Religion and Liberties, and all that's dear to any true</hi> Britiſh <hi>Proteſtant, does en<g ref="char:EOLhyphen"/>tirely depend.</hi>
+                        </p>
+                        <p>Now I (being requir'd to certify the Truth of the Fact, as it appears by the Journal of the Houſe of Commons) do humbly certify as followeth, <hi>viz.</hi>
+                        </p>
+                        <p>
+                           <hi>That it does appear by the Journal of the Houſe of Commons, of the Seſſion of Par<g ref="char:EOLhyphen"/>liament begun in</hi> October, 1702 <hi>as alſo by the Original Minute Books thereof, That the ſaid Clauſe ſet forth at large as aforeſaid, (and which was mark'd</hi> B) <hi>was agreed to by the Houſe of Commons, without any Diviſion thereupon: And that the Diviſion that was in the Houſe upon the 13th Day of</hi> February, (<hi>upon which the Number of the Yea's were</hi> 118, <hi>and No's</hi> 117) <hi>was upon a precedent Amendment,</hi> viz. <hi>upon a Clauſe mark'd</hi> A, <hi>which is as followeth:</hi>
+                        </p>
+                        <p>
+                           <q>Provided always, that no Perſon or Perſons, who, by reaſon of any ſuch Miſtake, Neglect or Omiſſion, hath or have left or forfeited and Office, Be<g ref="char:EOLhyphen"/>nefice; Place, Dignity or Imployment whatſoever, to which any other Per<g ref="char:EOLhyphen"/>ſon or Perſons hath or have been preferr'd or promoted, ſhall be reſtor'd to ſuch Office, Benefice, Place, Dignity or Imployment; Any thing herein contain'd to the contrary notwithſtanding.</q>
+                        </p>
+                        <p>And the other Amendments made by the Lords to the ſaid Bill were agreed to by the Houſe of Commons, without and Diviſion.</p>
+                        <closer>
+                           <signed>
+                              <hi>PA<g ref="char:V">Ʋ</g>L JODRELL,</hi> Cler' Dom' Com'</signed>
+                           <date>29. <hi>Sep.</hi> 1710.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="3" facs="tcp:182442:3" rendition="simple:additions"/>
+            <p> It appears by this Certificate of Mr. <hi>Jodrell,</hi> upon what Clauſe the Diviſion <hi>was not,</hi> and upon what Clauſe it <hi>was;</hi> and that the Clauſe, upon which the Houſe divided, had not the leaſt relation to the Security of the Proteſtant Suc<g ref="char:EOLhyphen"/>ceſſion. And it is evident, that had the Clauſe, upon which the Diviſion was, been rejected, the Proteſtant Succeſſion had been equally ſecur'd by the Clauſe upon which there was no Diviſion, and which paſs'd <hi>without any Contradiction.</hi> All the Difference between thoſe who diſagreed, and thoſe who agreed to the Clauſe, was, that the Former would have the Benefit of the Act <hi>for Enlarging the Time for taking the Oath of Abjuration,</hi> &amp;c. extend to All who had not taken that Oath within the Time limited, whether their Places were fill'd, or not; whereas the Latter were for excluding all ſuch from the ſame Benefit, whoſe Places were fill'd: The Former were for granting the ſame Favour to all Per<g ref="char:EOLhyphen"/>ſons who had an Equal Pretenſion to it; the Latter for denying it to thoſe, whoſe Misfortune it was, but not their Fault, to have their Places not only forfeited, but fill'd; that is, they were for denying Now (after this Amend<g ref="char:EOLhyphen"/>ment was ſent down from the Lords) that Favour to Some, which they Them<g ref="char:EOLhyphen"/>ſelves, as well as Others, had granted to All, before the Bill was ſent up to the Lords.</p>
+            <p>This is a plain and full Anſwer to all the Cavils and Artifices which have been made uſe of, in order to evade a Charge of Malicious Forgery in framing a <hi>Liſt,</hi> whereby many Gentlemen of the greateſt Families and Fortunes have been baſely traduc'd as Enemies to the Proteſtant Succeſſion, and the Illuſtrious Houſe of <hi>Hanover.</hi>
+            </p>
+            <p>This Attempt is the more ſcandalous and inexcuſable, becauſe when Mr. <hi>Dyer</hi> had, in his News-Letters, affirm'd, That the Commons had divided about the Clauſe relating to the Succeſſion, a Proſecution of him was order'd by the Houſe of Commons, as appears from this following</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="extract">
+                        <head>Extract from the <hi>Gazette</hi> of <hi>Thurſday, March</hi> 18. 1702.</head>
+                        <p>JOhn Dyer, <hi>a Writer of News, having in his Papers of the 18th of the laſt Month, inſerted the following Words, viz.</hi> The Commons to-day agreed to the Amendments made by the Lords to the Abjuration Bill, but divi<g ref="char:EOLhyphen"/>ded upon that which relates to the Succeſſion, but carry'd it. Yeas 118. Noes 117. <hi>whereas there was no Diviſion upon any part of the Bill which relates to the Succeſſion, or that makes it High-Treaſon to alter the Suc<g ref="char:EOLhyphen"/>ceſſion, as it is now eſtabliſh'd by Law; but the ſame paſs'd</hi> WITHOUT ANY CONTRADICTION: <hi>The Houſe of Commons taking Notice of this falſe and ſcandalous Report, order'd the ſaid</hi> Dyer <hi>to appear at the Bar of the Houſe; but he not appearing, and the Seſſions being near an End, they farther order'd he ſhould be found out and proſecuted for the ſame; and he being taken into Cuſtody, is to make his Appearance at the Court of</hi> Queen's-Bench, <hi>the firſt Day of next Term: And Her Majeſty hath been pleas'd to give Directions to the Attorney-General, to proſecute him according to Law, for publiſhing the ſaid falſe, ſcandalous, and ſedi<g ref="char:EOLhyphen"/>tions News.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Upon the whole; The Only Matter now in debate, is, Whether the Gen<g ref="char:EOLhyphen"/>tlemen accus'd did Vote againſt the Clauſe for Securing the Proteſtant Suc<g ref="char:EOLhyphen"/>ceſſion, or not? and by Conſequence, Whether they are rightly repreſented as Enemies to the Illuſtrious Houſe of <hi>Hanover,</hi> or not? To this Queſtion, the Authors, Spreaders, and Abettors of this new <hi>Black Liſt,</hi> have, in the Face of all the World, ſaid, <hi>Yea;</hi> they did Vote againſt the Clauſe, they are Enemies to the Houſe of <hi>Hanover:</hi> To the ſame Queſtion, every <hi>Britiſh</hi>-Subject, to whom this Paper ſhall reach, will be able, from Unqueſtionable Authority, to ſay, <hi>No;</hi> they did not Vote againſt that Clauſe; they are not Enemies, but hearty Friends, to the Illuſtrious Houſe of <hi>Hanover:</hi> And, to do them Right, and to give them an Opportunity of doing themſelves Right, I will heartily eſpouſe and vigorouſly promote their Intereſt in the enſuing Elections.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Jonah Bowyer,</hi> at the <hi>Roſe</hi> in <hi>Ludgate-ſtreet.</hi> 1710.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
